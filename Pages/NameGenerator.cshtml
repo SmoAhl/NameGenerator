@@ -3,3 +3,14 @@
 @{
     ViewData["Title"] = "Name Generator";
 }
+<h1>@ViewData["Title"]</h1>
+
+<form method="post">
+    <label for="generate">Press button to generate</label>
+    <button type="submit">Generate Name</button>
+</form>
+
+<div>
+    <label for="generatedName">Generated Name:</label>
+    <input type="text" id="generatedName" name="generatedName" value="@Model.GeneratedName" readonly />
+</div>
