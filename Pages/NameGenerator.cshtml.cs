@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace NameGenerator.Pages
 {
@@ -12,7 +11,7 @@ namespace NameGenerator.Pages
         public void OnPost()
         {
             // Placeholder logic for generating a name
-            GeneratedName = "GeneratedNamePlaceholder";
+            GeneratedName = "KakkaPissa";
         }
     }
 }
