@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ubj+n+9RKOL/b5GDoWiYStEHPep5FB3KZbnn4sYgI6s=",
+  "Hash": "LzHR4+t+nmwL62rg/+ueKY0xzyhcTt0QMPg78MowuDw=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\simoa\\OneDrive\\Desktop\\ohketyö\\WebApplication1\\wwwroot\\data\\wizardnames.json",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\simoa\\OneDrive\\Desktop\\ohketyö\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "data/wizardnames.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\wizardnames.json"
     },
     {
       "Identity": "C:\\Users\\simoa\\OneDrive\\Desktop\\ohketyö\\WebApplication1\\wwwroot\\favicon.ico",
@@ -1212,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\media\\gandalf.webp"
+    },
+    {
+      "Identity": "C:\\Users\\simoa\\OneDrive\\Desktop\\ohketyö\\WebApplication1\\wwwroot\\media\\nwa.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\simoa\\OneDrive\\Desktop\\ohketyö\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "media/nwa.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\nwa.webp"
     }
   ]
 }
