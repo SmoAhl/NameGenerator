@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\juuso\\.nuget\\packages\\": {}
+    "C:\\Users\\simoa\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juuso\\SimoNameGen\\NameGenerator\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\simoa\\OneDrive\\Desktop\\ohketyö\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\juuso\\SimoNameGen\\NameGenerator\\WebApplication1.csproj",
-      "packagesPath": "C:\\Users\\juuso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juuso\\SimoNameGen\\NameGenerator\\obj\\",
+      "projectPath": "C:\\Users\\simoa\\OneDrive\\Desktop\\ohketyö\\WebApplication1\\WebApplication1.csproj",
+      "packagesPath": "C:\\Users\\simoa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\simoa\\OneDrive\\Desktop\\ohketyö\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\juuso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\simoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -69,7 +74,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
