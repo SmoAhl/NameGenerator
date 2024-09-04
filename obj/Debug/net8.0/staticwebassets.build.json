@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "A0psS9+FZWsXHQej28GDqSd6UG6ymIO1HYdlygihcaA=",
+  "Hash": "Ubj+n+9RKOL/b5GDoWiYStEHPep5FB3KZbnn4sYgI6s=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -1193,6 +1193,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\simoa\\OneDrive\\Desktop\\ohketyö\\WebApplication1\\wwwroot\\media\\gandalf.webp",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\simoa\\OneDrive\\Desktop\\ohketyö\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "media/gandalf.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\gandalf.webp"
     }
   ]
 }

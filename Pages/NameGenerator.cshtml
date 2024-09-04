@@ -3,14 +3,77 @@
 @{
     ViewData["Title"] = "Name Generator";
 }
-<h1>@ViewData["Title"]</h1>
 
-<form method="post">
-    <label for="generate">Press button to generate</label>
-    <button type="submit">Generate Name</button>
-</form>
+<!DOCTYPE html>
+<html lang="en">
 
-<div>
-    <label for="generatedName">Generated Name:</label>
-    <input type="text" id="generatedName" name="generatedName" value="@Model.GeneratedName" readonly />
-</div>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-image: url('/media/gandalf.webp');
+            /* Update with the correct path to your GIF */
+            background-size: cover;
+            /* Stretches to cover the full screen */
+            background-position: center center;
+            /* Centers the GIF */
+            background-repeat: no-repeat;
+            /* Prevents repeating */
+            height: 100vh;
+            /* Makes the background cover the full viewport height */
+        }
+
+        h1 {
+            color: white;
+            text-align: center;
+            padding-top: 20px;
+        }
+
+        /* Additional styles for form and name display */
+        form,
+        div {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        input[type="text"] {
+            text-align: center;
+            font-size: 1.5em;
+            padding: 10px;
+            width: 60%;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 1.2em;
+            cursor: pointer;
+        }
+
+        .content {
+            position: relative;
+            z-index: 1;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="content">
+        <h1>@ViewData["Title"]</h1>
+
+        <form method="post">
+            <label for="generate">Press button to generate</label><br />
+            <button type="submit">Generate Name</button>
+        </form>
+
+        <div>
+            <label for="generatedName">Generated Name:</label><br />
+            <input type="text" id="generatedName" name="generatedName" value="@Model.GeneratedName" readonly />
+        </div>
+    </div>
+</body>
+
+</html>
