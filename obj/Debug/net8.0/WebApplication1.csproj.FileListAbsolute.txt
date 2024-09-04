@@ -29,4 +29,3 @@ C:\Users\simoa\OneDrive\Desktop\ohketyö\WebApplication1\obj\Debug\net8.0\WebApp
 C:\Users\simoa\OneDrive\Desktop\ohketyö\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\simoa\OneDrive\Desktop\ohketyö\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
 C:\Users\simoa\OneDrive\Desktop\ohketyö\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
-C:\Users\simoa\OneDrive\Desktop\ohketyö\WebApplication1\bin\Debug\net8.0\wizardnames.json

@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\simoa\\OneDrive\\Desktop\\ohketyö\\WebApplication1\\wwwroot\\data\\wizardnames.json",
+      "PackagePath": "staticwebassets\\data\\wizardnames.json"
+    },
+    {
       "Id": "C:\\Users\\simoa\\OneDrive\\Desktop\\ohketyö\\WebApplication1\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
@@ -247,6 +251,10 @@
     {
       "Id": "C:\\Users\\simoa\\OneDrive\\Desktop\\ohketyö\\WebApplication1\\wwwroot\\media\\gandalf.webp",
       "PackagePath": "staticwebassets\\media\\gandalf.webp"
+    },
+    {
+      "Id": "C:\\Users\\simoa\\OneDrive\\Desktop\\ohketyö\\WebApplication1\\wwwroot\\media\\nwa.webp",
+      "PackagePath": "staticwebassets\\media\\nwa.webp"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
