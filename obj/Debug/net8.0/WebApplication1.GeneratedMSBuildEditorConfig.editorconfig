@@ -9,43 +9,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApplication1
 build_property.RootNamespace = WebApplication1
-build_property.ProjectDir = C:\Users\simoa\OneDrive\Desktop\ohketyö\WebApplication1\
+build_property.ProjectDir = C:\Users\juuso\SimoNameGen\NameGenerator\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\simoa\OneDrive\Desktop\ohketyö\WebApplication1
+build_property.MSBuildProjectDirectory = C:\Users\juuso\SimoNameGen\NameGenerator
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/simoa/OneDrive/Desktop/ohketyö/WebApplication1/Pages/Error.cshtml]
+[C:/Users/juuso/SimoNameGen/NameGenerator/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simoa/OneDrive/Desktop/ohketyö/WebApplication1/Pages/Index.cshtml]
+[C:/Users/juuso/SimoNameGen/NameGenerator/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simoa/OneDrive/Desktop/ohketyö/WebApplication1/Pages/NameGenerator.cshtml]
+[C:/Users/juuso/SimoNameGen/NameGenerator/Pages/NameGenerator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmFtZUdlbmVyYXRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simoa/OneDrive/Desktop/ohketyö/WebApplication1/Pages/Privacy.cshtml]
+[C:/Users/juuso/SimoNameGen/NameGenerator/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simoa/OneDrive/Desktop/ohketyö/WebApplication1/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/juuso/SimoNameGen/NameGenerator/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simoa/OneDrive/Desktop/ohketyö/WebApplication1/Pages/_ViewImports.cshtml]
+[C:/Users/juuso/SimoNameGen/NameGenerator/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simoa/OneDrive/Desktop/ohketyö/WebApplication1/Pages/_ViewStart.cshtml]
+[C:/Users/juuso/SimoNameGen/NameGenerator/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simoa/OneDrive/Desktop/ohketyö/WebApplication1/Pages/Shared/_Layout.cshtml]
+[C:/Users/juuso/SimoNameGen/NameGenerator/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-g6ltozs93r
